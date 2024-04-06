@@ -9,9 +9,9 @@
 
 <h1 align="center">CYBER-THEEKSHANA-MD</h1>
 
-![stars](https://img.shields.io/github/stars/cyeberadex/CYBER-THEEKSHANA-MD?label=stars&style=social)
+![stars](https://img.shields.io/github/stars/cyeberadex/CYBER-THEEKSHANA-MD-V1?label=stars&style=social)
 
- ![forks](https://img.shields.io/github/forks/cyeberadex/CYBER-THEEKSHANA-MD?label=Forks&style=social)
+ ![forks](https://img.shields.io/github/forks/cyeberadex/CYBER-THEEKSHANA-MD-V1?label=Forks&style=social)
 
 #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/cyberadex/count.svg) 
